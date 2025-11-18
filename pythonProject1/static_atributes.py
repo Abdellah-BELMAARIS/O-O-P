@@ -17,9 +17,5 @@ print(user1.username)
 print(user2.username)
 
 print(User.user_count)
-print(
-    user1.user_count
-)
-print(
-    user2.user_count
-)
+print(user1.user_count)
+print(user2.user_count)
